@@ -1,0 +1,10 @@
+usuario1;apodo1;493
+mautiti0103;mauro;374
+mauricio;lopez;373
+usuario1;apodo1;370
+moises ;lopez2305;369
+mauricio;mautiti0103;369
+mauricio lopez;Mautiti0103;350
+mariana;toky;324
+mauricio;lopez;300
+rocio;popr;269
